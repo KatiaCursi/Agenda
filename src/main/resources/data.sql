@@ -1,6 +1,6 @@
-INSERT INTO Agenda (id, titulo, descricao, data, hora ) VALUES (1, 'Reunião de Negócios', 'Reunião trimestral de estratégia para revisar metas da empresa e métricas de desempenho.', '2014-12-09', '10:00:00');
-INSERT INTO Agenda (id, titulo, descricao, data, hora ) VALUES (2, 'Consulta Médica', 'Consulta de rotina com o clínico geral para revisão de saúde e atualização de vacinas.', '2014-12-10', '08:00:00');
-INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (3, 'Conferência de pais e professores', 'Discussão com professores sobre o progresso acadêmico e o comportamento do aluno.', '2014-12-14', '14:00:00');
-INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (4, 'Evento de Networking', 'Um encontro profissional com líderes do setor e potenciais colaboradores.', '2014-12-16', '16:00:00');
-INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (5, 'Sessão de Fitness', 'Sessão de treinamento pessoal focada na melhoria da força e da flexibilidade.', '2014-12-20', '08:00:00');
-INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (6, 'Passeio Cultural', 'Visita ao museu de arte para uma visita guiada a uma exposição especial.', '2014-12-22', '07:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora ) VALUES (1, 'Reunião de Negócios', 'Reunião trimestral de estratégia para revisar metas da empresa e métricas de desempenho.', '2024-12-09', '10:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora ) VALUES (2, 'Consulta Médica', 'Consulta de rotina com o clínico geral para revisão de saúde e atualização de vacinas.', '2024-12-10', '08:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (3, 'Conferência de pais e professores', 'Discussão com professores sobre o progresso acadêmico e o comportamento do aluno.', '2024-12-14', '14:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (4, 'Evento de Networking', 'Um encontro profissional com líderes do setor e potenciais colaboradores.', '2024-12-16', '16:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (5, 'Sessão de Fitness', 'Sessão de treinamento pessoal focada na melhoria da força e da flexibilidade.', '2024-12-20', '08:00:00');
+INSERT INTO Agenda (id, titulo, descricao, data, hora) VALUES (6, 'Passeio Cultural', 'Visita ao museu de arte para uma visita guiada a uma exposição especial.', '2024-12-22', '07:00:00');

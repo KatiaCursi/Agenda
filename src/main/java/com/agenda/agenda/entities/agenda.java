@@ -1,5 +1,6 @@
 package com.agenda.agenda.entities;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
@@ -11,7 +12,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class agenda {
+public class agenda implements Serializable{
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
