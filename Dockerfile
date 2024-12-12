@@ -1,4 +1,4 @@
-FROM maven:4.0.0-openjdk-17-slim AS build
+FROM maven:3.8.4-openjdk-17-slim AS build
 COPY . /home/app/Agenda
 RUN mvn -v
 RUN mvn -f /home/app/Agenda/pom.xml clean package
